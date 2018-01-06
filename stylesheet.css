@@ -1,0 +1,124 @@
+a {
+	font-family: "Raleway", sans-serif;
+	margin: 0 20px;
+	text-decoration: none;
+	font-weight: 600;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 20px;
+	text-transform: uppercase;
+	border-bottom: 2px solid transparent;
+}
+
+a:hover {
+	border-color: white;
+}
+
+body {
+	text-align: center;
+	margin: 0;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+.copyright {
+	float: left;
+	font-family: "Raleway", sans-serif;
+}
+
+footer {
+	text-transform: uppercase;
+	padding: 10px 20px 10px 20px;
+	background-color: #0d2c40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+
+h1 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 45px;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+h2 {
+	font-family: "Raleway", sans-serif;
+	text-transform: uppercase;
+}
+
+header {
+	background-color: #f15b31;
+	color: white;
+	padding: 30px 20px;
+}
+
+img {
+	margin: 40px 8px 0 8px;
+}
+
+/*
+
+.inst {
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.instgame {
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	color: #f15b31;
+	letter-spacing: 1px;
+	font-size: 18px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+*/
+
+.main {
+	width: 850px;
+	margin: 35px auto;
+}
+
+.message {
+	float: right;
+	font-family: "Raleway", sans-serif;
+}
+
+.name {
+	color: #f15b31;
+	font-weight: 700;
+}
+
+nav {
+	background-color: #00a6b3;
+	color: white;
+	padding: 20px 0;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: "Droid Serif", serif;
+	line-height: 26px;
+	font-size: 18px;
+}
+
+
+
+
