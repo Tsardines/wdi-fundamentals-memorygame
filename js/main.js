@@ -45,7 +45,7 @@ var checkForMatch = function() {
 
 
 var flipCard = function() {
-/* var */	cardId = this.getAttribute('data-id');
+	cardId = this.getAttribute('data-id');
 	cardsInPlay.push(cards[cardId].rank);
 	console.log("User flipped " + cards[cardId].rank);
 
@@ -71,7 +71,10 @@ var createBoard = function() {
 	}
 }
 
+
+
 createBoard();
+
 
 /* cardElement.setAttribute('attributeName', 'attributeValue');
 
